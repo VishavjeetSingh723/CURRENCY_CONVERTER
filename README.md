@@ -1,11 +1,11 @@
-Currency Converter - A Web App using Streamlit
+#Currency Converter - A Web App using Streamlit
 
 
-# AUTHOR
+## AUTHOR
 
-# Student's Name -  Vishavjeet Singh
-# Student ID     -  24895346
-# E-mail         -  singhvishavjeet723@gmail.com
+### Student's Name -  Vishavjeet Singh
+### Student ID     -  24895346
+### E-mail         -  singhvishavjeet723@gmail.com
 
 
 ## Project Overview
