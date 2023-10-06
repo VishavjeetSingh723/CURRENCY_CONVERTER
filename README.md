@@ -1,4 +1,4 @@
-#Currency Converter - A Web App using Streamlit
+# Currency Converter - A Web App using Streamlit
 
 
 ## AUTHOR
