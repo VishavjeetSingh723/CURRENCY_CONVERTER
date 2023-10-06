@@ -18,7 +18,7 @@ def main():
     if st.button("Get Latest Conversion Rate"):
         latest_rate = api.get_latest_rate(base_currency, target_currency)
         conversion_date = datetime.date.today().strftime('%Y-%m-%d')
-        converted_amount = amount * latest_rate
+        converted_amount = amount*latest_rate
         inverse_rate = 1 / latest_rate
         result_text = f"The conversion rate on {conversion_date} from {base_currency} to {target_currency} was {latest_rate}. So {amount} in {base_currency} corresponds to {converted_amount} in {target_currency}. The inverse rate was {inverse_rate}."
         st.write(result_text)
