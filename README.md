@@ -1,6 +1,8 @@
 # Currency Converter - A Web App using Streamlit
 
 
+
+
 ## AUTHOR
 
 ### Student's Name -  Vishavjeet Singh
@@ -8,9 +10,14 @@
 ### E-mail         -  singhvishavjeet723@gmail.com
 
 
+
+
+
 ## Project Overview
 
 In this project, our aim is to develop a web app in Python using Streamlit that performs currency conversion using data fetched from the [Frankfurter API](https://www.frankfurter.app/). The app allows users to select two currencies, an amount to be converted, and a date in the past (optional) to retrieve conversion rates and calculate the inverse conversion rate.
+
+
 
 This project is divided into the following multiple python files-
 
