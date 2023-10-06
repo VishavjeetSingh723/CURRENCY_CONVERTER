@@ -76,6 +76,10 @@ To run the Currency Converter web app:
 - Streamlit
 - Requests (for making HTTP requests)
 
+## App URL:  
+currencyconverter-wgtuxoovzhnqvbjqssmnfs.streamlit.app
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file attached with this project to find out more details.
