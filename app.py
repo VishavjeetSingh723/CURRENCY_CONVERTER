@@ -2,6 +2,7 @@ import streamlit as st
 import api
 import currency
 import datetime
+import frankfurter
 
 def main():
     st.title("Currency Converter")
@@ -36,3 +37,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
