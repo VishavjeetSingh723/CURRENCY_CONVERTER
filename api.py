@@ -1,6 +1,6 @@
 import requests
 import currency
-import frtankfurter
+import frankfurter
 
 FRANKFURTER_BASE_URL = 'https://www.frankfurter.app/'
 
