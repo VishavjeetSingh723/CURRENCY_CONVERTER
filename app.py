@@ -36,5 +36,5 @@ def main():
         st.write(result_text)
 
 if __name__ == "__main__":
-    main()
+ main()
     
