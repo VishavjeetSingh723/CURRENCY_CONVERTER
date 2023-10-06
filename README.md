@@ -74,8 +74,8 @@ To run the Currency Converter web app:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file attached with this project to find out more details.
 
 
-Thanks for reading
-Vishavjeet Singh
+#Thanks for reading
+##Vishavjeet Singh
 ---
 
 
